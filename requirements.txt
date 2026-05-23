@@ -1,0 +1,10 @@
+requests
+tqdm
+pyinstaller
+packaging
+altgraph
+setuptools
+pandas
+openpyxl
+psycopg2-binary
+python-dotenv
